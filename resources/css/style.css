@@ -35,3 +35,15 @@ h3 {
   color: white;
   font-size: 23px;
 }
+/* Footer */
+.bar {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.bar p a {
+  font-size: 11px;
+}
+.b2 {
+  font-size: 11px;
+}
